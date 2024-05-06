@@ -1,0 +1,11 @@
+{
+    "code": "63daaa60-adc0-4005-b3c1-cd1f1ccb635f",
+    "companyName": "EMC2",
+    "contactPerson": "Simon Smith update",
+    "firstName": "Laura",
+    "lastName": "Simpson",
+    "website": "www.emc.co.us",
+    "email": "emc@ibm.com",
+    "status": "A",
+    "regDate": "2024-04-28T12:50:43.688+00:00"
+}
